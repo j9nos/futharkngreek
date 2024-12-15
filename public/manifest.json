@@ -1,0 +1,15 @@
+{
+  "short_name": "FutharkNGreek",
+  "name": "FutharkNGreek",
+  "icons": [
+    {
+      "src": "icons/icon.jpg",
+      "sizes": "64x64",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
